@@ -4,5 +4,8 @@
   },
   "desc": {
     "type": "richtext" 
+  },
+  "event_date":{
+    "type": "date"
   }
 }
